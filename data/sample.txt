@@ -1,0 +1,4 @@
+This is a sample document shipped with the RAG project.
+It describes the purpose of the repository: demonstrate a minimal Retrieval-Augmented Generation pipeline
+using LangChain, FAISS, and an OpenAI LLM for answering questions over local documents.
+Replace this with your own PDFs and TXT files under the data/ folder.
